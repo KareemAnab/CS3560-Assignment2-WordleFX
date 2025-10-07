@@ -28,13 +28,6 @@ No VM options or JavaFX SDK setup required.
 
 ---
 
-### Option 2: Run via Command Line (Windows PowerShell or Command Prompt)
-
-If you prefer running from the terminal, stay in the root project folder and execute:
-
-WordleFX_project\gradlew.bat -p WordleFX_project clean run
-
-
 ## Features Implemented
 - Core Gameplay: 5-letter Wordle-style guessing with 6 attempts and visual feedback.
 - Dictionary Validation: Only accepts valid English 5-letter words from `assets/words/valid.txt`.
