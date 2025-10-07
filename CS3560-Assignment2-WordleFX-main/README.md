@@ -4,13 +4,29 @@ WordleFX (JavaFX Wordle Clone)
 ## Team Members
 - Kareem Anabtawi (Cal Poly ID: 016297723)
 
-## How to Run
-1. Clone repository: `git clone <YOUR_REPO_URL>`
-2. Open in IntelliJ or Eclipse
-3. [If JavaFX] Configure VM options:  
-   `--module-path "PATH/TO/javafx-sdk-XX/lib" --add-modules javafx.controls`
-4. Run `wordle.Main`  
-   *(Alternatively, use Gradle commands: `gradle run` to launch, `gradle test` to run tests.)*
+## How to Run the Project
+
+You can run **WordleFX** in two simple ways — either directly through IntelliJ’s Gradle tool window (recommended) or from the command line.
+
+---
+
+### Option 1: Run via IntelliJ (No Terminal Needed)
+
+1. Open the project in **IntelliJ IDEA**.
+    - If you see a folder named `WordleFX_project`, right-click it → **Open as Project**.
+2. Open the **Gradle** panel (right side of IntelliJ, elephant icon).
+3. Navigate to:
+   1. Tasks --> application --> run
+4. Double-click **run** (or right-click → **Run 'WordleFX_project [run]'**).
+
+IntelliJ will automatically:
+- Build the project
+- Configure JavaFX modules
+- Launch the game window
+
+No VM options or JavaFX SDK setup required.
+
+---
 
 ## Features Implemented
 - Core Gameplay: 5-letter Wordle-style guessing with 6 attempts and visual feedback.
