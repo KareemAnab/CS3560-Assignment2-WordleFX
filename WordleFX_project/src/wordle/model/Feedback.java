@@ -1,1 +1,0 @@
-package wordle.model; public enum Feedback { GREEN, YELLOW, GRAY }
