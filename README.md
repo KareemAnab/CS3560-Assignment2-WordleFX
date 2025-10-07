@@ -6,11 +6,11 @@ WordleFX (JavaFX Wordle Clone)
 
 ## How to Run the Project
 
-You can run **WordleFX** in two simple ways — either directly through IntelliJ’s Gradle tool window (recommended) or from the command line.
+You can run **WordleFX** in a simple way, directly through IntelliJ’s Gradle tool window
 
 ---
 
-### Option 1: Run via IntelliJ (No Terminal Needed)
+Run via IntelliJ (No Terminal Needed)
 
 1. Open the project in **IntelliJ IDEA**.
     - If you see a folder named `WordleFX_project`, right-click it → **Open as Project**.
