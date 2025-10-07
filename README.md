@@ -1,7 +1,7 @@
 # Project Title
 WordleFX (JavaFX Wordle Clone)
 
-##DEMO LINK:
+## DEMO LINK:
 (https://youtu.be/wki8iass8II)
 
 ## Team Members
